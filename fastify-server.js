@@ -1,3 +1,8 @@
+/*
+    CIT 281 Lab 5
+    Name: Garrett Arnold
+*/
+
 const fastify = require("fastify")();
 
 let students = [
